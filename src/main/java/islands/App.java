@@ -8,7 +8,7 @@ public final class App {
     }
 
     /**
-     * Main function
+     * Main function.
      */
     public static void main(String[] args) {
         System.out.println("Hello World!");
